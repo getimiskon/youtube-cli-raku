@@ -20,6 +20,7 @@ One of the major features of the script is the ability to easily change the reso
 
 You can set your preferred resolution as an argument, like this:
 `./youtube-cli.raku 1080`
+
 By default, the resolution is set to 720p.
 
 ## TODO
